@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sadraka
 - 👀 I’m interested in programming , WEB and SOFTWARE development and chemistry
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
