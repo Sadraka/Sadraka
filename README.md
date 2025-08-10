@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sadra
 - 👀 I’m interested in programming , WEB and SOFTWARE development and chemistry
 - 🌱 I’m currently learning Next.js
-- 💞️ CHEM
+-  CHEMISTRY LOVER
 -  [![My Skills](https://skillicons.dev/icons?i=js,html,css,next,react,nodejs,mongodb)](https://skillicons.dev)
 - 📫 How to reach me () => {<a href="https://t.me/sadra_kab">https://t.me/sadra_kab</a>}
 <!---
